@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "de-slopify",
+  "owner": {
+    "name": "cbzehner",
+    "email": "chris@cbzehner.com"
+  },
+  "plugins": [
+    {
+      "name": "de-slopify",
+      "source": "./",
+      "description": "Remove AI writing patterns from prose to make it sound authentically human",
+      "version": "1.0.0",
+      "author": {
+        "name": "cbzehner",
+        "email": "chris@cbzehner.com"
+      },
+      "category": "writing",
+      "homepage": "https://github.com/cbzehner/skill-de-slopify"
+    }
+  ]
+}
