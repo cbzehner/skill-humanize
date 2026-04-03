@@ -4,7 +4,8 @@ description: Remove AI writing patterns from prose to make it sound authenticall
   Use when cleaning up AI-generated text, documentation, blog posts, READMEs, or any
   writing that should not read like LLM output. Trigger on "de-slop", "clean up this
   writing", "make this sound human", "remove AI patterns", or "this reads like AI wrote it".
-allowed-tools: Read, Edit, Write, Grep
+license: MIT
+allowed-tools: Read Edit Write Grep
 ---
 
 # /de-slopify
