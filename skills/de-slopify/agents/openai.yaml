@@ -1,4 +1,0 @@
-interface:
-  display_name: "De-Slopify"
-  short_description: "Remove generic AI writing patterns from prose"
-  default_prompt: "Use $de-slopify to rewrite this text so it sounds sharper, more natural, and less AI-generated."

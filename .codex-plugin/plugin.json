@@ -1,31 +1,32 @@
 {
-  "name": "de-slopify",
+  "name": "humanize",
   "version": "1.0.0",
-  "description": "Remove AI writing patterns from prose to make it sound authentically human. Use when cleaning up AI-generated text, documentation, blog posts, READMEs, or any writing that should not read like LLM output. Trigger on \"de-slop\", \"clean up this writing\", \"make this sound human\", \"remove AI patterns\", or \"this reads like AI wrote it\".",
+  "description": "Rewrite or audit prose so it sounds natural in the right register. Use for AI-assisted text, READMEs, docs, emails, posts, and copy that feels generic, robotic, or machine-written. Also triggers on de-slop and de-slopify.",
   "author": {
     "name": "cbzehner",
     "url": "https://github.com/cbzehner"
   },
-  "homepage": "https://github.com/cbzehner/skill-de-slopify",
-  "repository": "https://github.com/cbzehner/skill-de-slopify",
+  "homepage": "https://github.com/cbzehner/skill-humanize",
+  "repository": "https://github.com/cbzehner/skill-humanize",
   "license": "MIT",
   "keywords": [
+    "humanize",
+    "writing",
+    "editing",
     "de-slopify",
-    "de",
-    "slopify",
     "agent-skill"
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "De Slopify",
-    "shortDescription": "Remove AI writing patterns from prose to make it sound authentically human. Use when cleaning up AI-generated text, d...",
-    "longDescription": "Remove AI writing patterns from prose to make it sound authentically human. Use when cleaning up AI-generated text, documentation, blog posts, READMEs, or any writing that should not read like LLM output. Trigger on \"de-slop\", \"clean up this writing\", \"make this sound human\", \"remove AI patterns\", or \"this reads like AI wrote it\".",
+    "displayName": "Humanize",
+    "shortDescription": "Rewrite or audit prose so it sounds natural in the right register.",
+    "longDescription": "Rewrite or audit prose so it sounds natural in the right register. Use for AI-assisted text, READMEs, docs, emails, posts, and copy that feels generic, robotic, or machine-written. Also triggers on de-slop and de-slopify.",
     "developerName": "cbzehner",
     "category": "Writing & Design",
     "capabilities": [
       "Writing",
       "Design"
     ],
-    "websiteURL": "https://github.com/cbzehner/skill-de-slopify"
+    "websiteURL": "https://github.com/cbzehner/skill-humanize"
   }
 }
