@@ -1,3 +1,5 @@
+> **Moved:** this skill now lives in [cbzehner/skills](https://github.com/cbzehner/skills) under `skills/humanize/`. This repo is archived and read-only.
+
 # Humanize
 
 Rewrite or audit prose that sounds machine-written. The skill keeps the useful parts of `de-slopify`, adds a stronger audit pass, and makes `humanize` the public name.
